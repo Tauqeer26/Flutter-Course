@@ -19,3 +19,16 @@ Looking ahead, the future scope of Flutter and AI is very promising. Here are a 
 
 If you're a developer looking to create intelligent and personalised apps that stand out from the competition, Flutter and AI are definitely technologies to keep an eye on.
 
+
+## Section 1: Introduction to Cross-Platform Development with Flutter and Dart
+
+* [Material Design](https://material.io/)
+* [Scaffold Documentation](https://docs.flutter.io/flutter/material/Scaffold-class.html)
+* [AppBar Documentation](https://docs.flutter.io/flutter/material/AppBar-class.html)
+* [Material Design Colour System](https://material.io/design/color/the-color-system.html)
+* [Image Widget Documentation](https://docs.flutter.io/flutter/widgets/Image-class.html)
+* [Make Flowcharts with Draw.io](https://www.draw.io/)
+* [Learn More About the Pubspec File](https://www.dartlang.org/tools/pub/pubspec)
+* [Adding Assets](https://flutter.dev/docs/development/ui/assets-and-images)
+* [Generating App Icons with AppIcon.co](https://appicon.co/)
+
