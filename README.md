@@ -23,7 +23,7 @@ If you're a developer looking to create intelligent and personalised apps that s
 ## Section 1: Introduction to Cross-Platform Development with Flutter and Dart
 
 * [Material Design](https://material.io/)
-* [Scaffold Documentation](https://docs.flutter.io/flutter/material/Scaffold-class.html)
+* [Scaffold Documentation](https://api.flutter.dev/flutter/material/Scaffold-class.html)
 * [AppBar Documentation](https://docs.flutter.io/flutter/material/AppBar-class.html)
 * [Material Design Colour System](https://material.io/design/color/the-color-system.html)
 * [Image Widget Documentation](https://docs.flutter.io/flutter/widgets/Image-class.html)
