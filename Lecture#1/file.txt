@@ -1,4 +1,4 @@
-# **let's get started with the installation process:**
+let's get started with the installation process:
 
 Step 1: Download the Flutter SDK
 The first step is to download the Flutter SDK from the official website. You can download the SDK by visiting the Flutter download page at https://flutter.dev/docs/get-started/install/windows.
