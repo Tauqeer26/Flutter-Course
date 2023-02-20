@@ -24,7 +24,7 @@ If you're a developer looking to create intelligent and personalised apps that s
 
 * [Material Design](https://material.io/)
 * [Scaffold Documentation](https://api.flutter.dev/flutter/material/Scaffold-class.html)
-* [AppBar Documentation](https://docs.flutter.io/flutter/material/AppBar-class.html)
+* [AppBar Documentation](https://api.flutter.dev/flutter/material/AppBar-class.html)
 * [Material Design Colour System](https://material.io/design/color/the-color-system.html)
 * [Image Widget Documentation](https://docs.flutter.io/flutter/widgets/Image-class.html)
 * [Make Flowcharts with Draw.io](https://www.draw.io/)
