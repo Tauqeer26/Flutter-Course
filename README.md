@@ -1,4 +1,4 @@
-# **Flutter-Course**
+# **AI-Powered Mobile App Development Course with Flutter**
 
 Flutter is a mobile app development framework created by Google that has been gaining a lot of popularity among developers in recent years. While Flutter itself does not include built-in artificial intelligence (AI) capabilities, it is a versatile and flexible framework that can be used with a variety of AI technologies to create intelligent and innovative apps. In this article, we will explore the future scope of Flutter and AI, and how these two technologies can work together to create exciting new possibilities for mobile app development.
 
