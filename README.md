@@ -32,3 +32,8 @@ If you're a developer looking to create intelligent and personalised apps that s
 * [Adding Assets](https://flutter.dev/docs/development/ui/assets-and-images)
 * [Generating App Icons with AppIcon.co](https://appicon.co/)
 
+## Section 2: Running Your App on a Physical Device
+
+* [Flutter Documentation on Deploying to Physical iOS Devices](https://flutter.dev/docs/get-started/install/macos#deploy-to-ios-devices)
+* [Troubleshooting: Physical iOS Device Testing](https://blog.londonappbrewery.com/troubleshooting-ios-device-testing-for-flutter-38c5da239e62)
+* [Troubleshooting: Physical Android Device Testing](https://blog.londonappbrewery.com/troubleshooting-android-device-testing-on-windows-a2b5d779df08)
