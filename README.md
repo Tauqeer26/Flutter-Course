@@ -36,8 +36,7 @@ If you're a developer looking to create intelligent and personalised apps that s
 
 * [Flutter Documentation on Deploying to Physical iOS Devices](https://flutter.dev/docs/get-started/install/macos#deploy-to-ios-devices)
 
-## Section 3: Bismillah App
+## Section 3: Create your first App
 
-* [Icons8](https://icons8.com/)
-* [Vecteezy](https://www.vecteezy.com/)
-* [Canva](https://www.canva.com/)
+* [Bismillah App](https://icons8.com/)
+
