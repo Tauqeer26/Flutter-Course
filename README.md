@@ -35,3 +35,9 @@ If you're a developer looking to create intelligent and personalised apps that s
 ## Section 2: Running Your App on a Physical Device
 
 * [Flutter Documentation on Deploying to Physical iOS Devices](https://flutter.dev/docs/get-started/install/macos#deploy-to-ios-devices)
+
+## Section 3: Bismillah App
+
+* [Icons8](https://icons8.com/)
+* [Vecteezy](https://www.vecteezy.com/)
+* [Canva](https://www.canva.com/)
