@@ -38,5 +38,5 @@ If you're a developer looking to create intelligent and personalised apps that s
 
 ## Section 3: Create your first App
 
-* [Bismillah App](https://github.com/Tauqeer26/Bismillah)
+* [MIntro App](https://github.com/Tauqeer26/Bismillah)
 
