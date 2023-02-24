@@ -35,7 +35,7 @@ If you're a developer looking to create intelligent and personalised apps that s
 ## Section 2: Create your first App
 
 * [Installation Guide](https://github.com/Tauqeer26/Flutter-Course/blob/519f4b609f8b14536d5fcddec233d1228d241128/Lecture%231/The%20Amazing%20Technology.pdf)
-* [The Emulator] (https://github.com/Tauqeer26/Flutter-Course/blob/483229a965d9a802dcfa53c99ca57c1c95159a35/Lecture%231/The%20Emulator.pdf)
+* [The Emulator](https://github.com/Tauqeer26/Flutter-Course/blob/483229a965d9a802dcfa53c99ca57c1c95159a35/Lecture%231/The%20Emulator.pdf)
 * [MIntro App](https://github.com/Tauqeer26/Bismillah)
 
 ## Section 3: Running Your App on a Physical Device
