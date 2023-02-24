@@ -32,11 +32,13 @@ If you're a developer looking to create intelligent and personalised apps that s
 * [Adding Assets](https://flutter.dev/docs/development/ui/assets-and-images)
 * [Generating App Icons with AppIcon.co](https://appicon.co/)
 
-## Section 2: Running Your App on a Physical Device
+## Section 2: Create your first App
+
+* [MIntro App](https://github.com/Tauqeer26/Bismillah)
+
+## Section 3: Running Your App on a Physical Device
 
 * [Flutter Documentation on Deploying to Physical iOS Devices](https://flutter.dev/docs/get-started/install/macos#deploy-to-ios-devices)
 
-## Section 3: Create your first App
 
-* [MIntro App](https://github.com/Tauqeer26/Bismillah)
 
