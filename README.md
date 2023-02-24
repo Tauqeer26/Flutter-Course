@@ -30,8 +30,8 @@ If you're a developer looking to create intelligent and personalised apps that s
 * [Make App Flow](https://lucid.app/documents#/dashboard) 
 * [Learn More About the Pubspec File](https://www.dartlang.org/tools/pub/pubspec)
 * [Adding Assets](https://flutter.dev/docs/development/ui/assets-and-images)
-* [Generating App Icons with AppIcon.co](https://appicon.co/)
-
+* [Generating App Icons with AppIcon.co](https://appicon.co/)   
+* [AI in Mobile Apps] https://img1.wsimg.com/blobby/go/a2f6013e-46d4-4fde-94f9-94431031dbad/downloads/AI-ML-for-Coders-ch2.pdf?ver=1619183047625
 ## Section 2: Create your first App
 
 * [MIntro App](https://github.com/Tauqeer26/Bismillah)
