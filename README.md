@@ -34,6 +34,7 @@ If you're a developer looking to create intelligent and personalised apps that s
 * [AI in Mobile Apps](https://img1.wsimg.com/blobby/go/a2f6013e-46d4-4fde-94f9-94431031dbad/downloads/AI-ML-for-Coders-ch2.pdf?ver=1619183047625)
 ## Section 2: Create your first App
 
+* [Installation Guide](https://github.com/Tauqeer26/Flutter-Course/blob/519f4b609f8b14536d5fcddec233d1228d241128/Lecture%231/The%20Amazing%20Technology.pdf) 
 * [MIntro App](https://github.com/Tauqeer26/Bismillah)
 
 ## Section 3: Running Your App on a Physical Device
