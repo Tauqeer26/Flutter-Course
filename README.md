@@ -38,7 +38,7 @@ If you're a developer looking to create intelligent and personalised apps that s
 * [The Emulator](https://github.com/Tauqeer26/Flutter-Course/blob/483229a965d9a802dcfa53c99ca57c1c95159a35/Lecture%231/The%20Emulator.pdf)
 * [MIntro App](https://github.com/Tauqeer26/Bismillah)
 
-## Section 3: Running Your App on a Physical Device
+## Section 3: The Dicee App
 
 * [Flutter Documentation on Deploying to Physical iOS Devices](https://flutter.dev/docs/get-started/install/macos#deploy-to-ios-devices)
 
