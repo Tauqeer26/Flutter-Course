@@ -41,6 +41,7 @@ If you're a developer looking to create intelligent and personalised apps that s
 ## Section 3: The Dicee App
 
 * [Flutter Documentation on Deploying to Physical iOS Devices](https://flutter.dev/docs/get-started/install/macos#deploy-to-ios-devices)
+* [Dice App](https://github.com/Tauqeer26/DiceApp)
 
 
 
