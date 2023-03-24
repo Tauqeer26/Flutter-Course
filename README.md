@@ -43,5 +43,8 @@ If you're a developer looking to create intelligent and personalised apps that s
 * [Flutter Documentation on Deploying to Physical iOS Devices](https://flutter.dev/docs/get-started/install/macos#deploy-to-ios-devices)
 * [Dice App](https://github.com/Tauqeer26/DiceApp)
 
-
+## Section 4: BMI Calculator 
+* [App Design](https://dribbble.com/shots/4585382-Simple-BMI-Calculator)
+* [BMI App](https://github.com/Tauqeer26/BMI_Calculator)
+    
 
