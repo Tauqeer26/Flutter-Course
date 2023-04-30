@@ -48,8 +48,8 @@ If you're a developer looking to create intelligent and personalised apps that s
 * [BMI App](https://github.com/Tauqeer26/BMI_Calculator)
 
 
-## Section 5: Artificial Intelligence 
+## Section 5: AI-Senti
 * [Sentiment Analysis using External Api](https://github.com/Tauqeer26/Senti.git)
 
-## Section 6: Flower Detector
-* [Flower Detector](https://github.com/Tauqeer26/Senti.git)
+## Section 6: AI-Flowery
+* [Flower Detector](https://github.com/Tauqeer26/Flowery.git)
