@@ -46,5 +46,8 @@ If you're a developer looking to create intelligent and personalised apps that s
 ## Section 4: BMI Calculator 
 * [App Design](https://dribbble.com/shots/4585382-Simple-BMI-Calculator)
 * [BMI App](https://github.com/Tauqeer26/BMI_Calculator)
-    
+
+
+## Section 5: Artificial Intelligence 
+* [Sentiment Analysis using External Api](https://github.com/Tauqeer26/Senti.git)
 
