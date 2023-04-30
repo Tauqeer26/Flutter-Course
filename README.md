@@ -51,3 +51,5 @@ If you're a developer looking to create intelligent and personalised apps that s
 ## Section 5: Artificial Intelligence 
 * [Sentiment Analysis using External Api](https://github.com/Tauqeer26/Senti.git)
 
+## Section 6: Flower Detector
+* [Flower Detector](https://github.com/Tauqeer26/Senti.git)
